@@ -1,0 +1,25 @@
+{
+  "system_name": "WasteToWealth",
+  "user_facing_agent": "lead",
+  "orchestrator": "lead",
+  "specialists": [
+    "recon",
+    "intent",
+    "frontend",
+    "ui-designer",
+    "backend",
+    "database",
+    "data-engineer",
+    "map-gis",
+    "intelligence",
+    "ai-integrations",
+    "api-ops",
+    "security",
+    "performance",
+    "tester",
+    "deployer",
+    "reviewer",
+    "reporter"
+  ],
+  "workflow_router": "auto-task"
+}
